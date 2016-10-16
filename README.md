@@ -1,2 +1,4 @@
 # hello-world
-i am noob
+
+Howdy partners!
+This is weird to me but I really like it.
